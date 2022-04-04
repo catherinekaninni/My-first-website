@@ -1,0 +1,13 @@
+.border{
+border-style:solid;
+border: 15px solid rgb(255, 0, 170);
+/* border-color:rgb(51, 13, 218); */
+border-radius: 16px;
+outline: 20px solid rgb(128, 0, 64);
+padding:6px;
+margin-top: 5%;
+height: 400px;
+width: 400px;
+margin-left: 5%;
+background-color: rgb(145, 255, 0);
+}

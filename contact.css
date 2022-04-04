@@ -1,0 +1,29 @@
+nav ul li{
+    display: inline;
+    padding: 26px 40px;
+}
+nav ul li a{
+    font-size: x-large;
+    font-weight:bolder;
+    color: black;
+    font-style: italic;
+    text-decoration: none;
+}
+    tr,th,td{
+    padding: 20px 40px;
+    border: 10px double black;
+}
+body{
+    background-image: url(/ukuts.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    border-style:solid;
+    border: 3px solid blue;
+    border-color:rgb(23, 6, 100);
+    border-radius: 26px;
+    outline: 6px solid rgb(128, 36, 0);
+    padding: 6px;
+    margin-top: 10%;
+    }

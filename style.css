@@ -1,0 +1,20 @@
+nav ul li{
+    display: inline;
+    padding: 26px 40px;
+}
+nav ul li a{
+    font-size: x-large;
+    font-weight:bolder;
+    color: white;
+    font-style: italic;
+    text-decoration: none;
+}
+body{
+    background: url(/walls.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+
+}
+button{
+    margin-top: 46%;
+}
